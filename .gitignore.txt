@@ -1,0 +1,2 @@
+# Ignore Jupiter Notebook Checkpoints
+.ipynb_checkpoints
