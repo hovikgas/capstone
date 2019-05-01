@@ -12,7 +12,7 @@ This analysis uses various Natural Language Processing (NLP) tools to analyze se
 
 The labeled data set consists of 50,000 IMDB movie reviews. The sentiment is coded as a binary variable, where a rating less than five results in a sentiment score of zero, and ratings greater than or equal to 7 have a sentiment score of 1. All movies have less than 30 reviews. The 25,000 review labeled training set does not include any of the same movies as the 25,000 review test set. In addition, there are another 50,000 IMDB reviews without any rating labels against which my various models are tested. 
 
-### Key Performance Indicators
+### Key Performance Indicators (KPIs)
 
 * Accuracy Score
 > How many reviews were correctly identified
@@ -20,3 +20,13 @@ The labeled data set consists of 50,000 IMDB movie reviews. The sentiment is cod
 > Description of NPS
 * F-Score
 > Harmonic mean of precision and recall
+
+## Analysis
+
+Compare the various KPIs across the various models
+
+## Conclusion
+
+In conclusion, deep learning can be a rabbit hole. If you take the red pill, you can see how deep it really goes. 
+
+<img src="https://cdn-images-1.medium.com/max/1600/1*3wVYz3cetZqy2GughF9Obw.png" />
