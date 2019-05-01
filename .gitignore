@@ -1,2 +1,5 @@
 # Ignore Jupiter Notebook Checkpoints
 .ipynb_checkpoints
+
+# The gitignore file as well
+.gitignore
