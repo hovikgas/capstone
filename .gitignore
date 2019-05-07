@@ -3,3 +3,6 @@
 
 # The gitignore file as well
 .gitignore
+
+# Large files
+sentences.txt
