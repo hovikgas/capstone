@@ -6,7 +6,7 @@ This analysis uses various Natural Language Processing (NLP) tools to analyze se
 
 ## Link to Technical Report
 
-
+[Technical Report](https://github.com/hovikgas/capstone/blob/master/notebooks/00_Technical_Report.ipynb)
 
 ## Conclusion and Future Steps
 
