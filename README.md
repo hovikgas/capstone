@@ -8,6 +8,10 @@ This analysis uses various Natural Language Processing (NLP) tools to analyze se
 
 [Technical Report](https://github.com/hovikgas/capstone/blob/master/notebooks/00_Technical_Report.ipynb)
 
+## Link to Presentation Slides
+
+[Slides](https://docs.google.com/presentation/d/1eufNnRh-T5vhwrbS6avMeV21ru4MyrFjTARB-CfGk7w/edit?usp=sharing)
+
 ## Conclusion and Future Steps
 
 While the final production model utilizing deep learning performed slightly worse than the non-deep learning methods, the difference was negligible (just over one percent). I believe the biggest reason for this is the scale of the data. 25,000 examples to train on is pretty small for a neural network. In the future, I would like to train Word2Vec and my LSTM model with a lot more text, as deep learning generally requires massive amounts of data to improve performance. Google's state-of-the-art results with similar techniques are based on a corpus of more than a billion words. I would also like to try some newer tools that have only recently been developed, such as Sent2Vec and Doc2Vec, which utilize paragraph embeddings and other advanced techniques to better learn context and the meaning of words.
